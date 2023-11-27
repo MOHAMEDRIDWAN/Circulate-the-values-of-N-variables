@@ -6,13 +6,16 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: 
+GET THE INPUT FROM THE FOR STRING
 ### Step 2: 
+
 ### Step 3: 
 Get the value from the user for the number of rotation
 ### Step 4: 
 Using the slicing concept rotate the list
 
 ### Step 5: 
+FINALY PRINT THE THE ROTATED LIST
 ### Step 6: 
 ## Program:
 '''
@@ -28,3 +31,5 @@ def circulate():
 
 
 ## Result:
+THUS THE PROGRAM FOR CIRCULATING N VARIABLES IS WRITTEN AND THE OUTPUT IS EXECUTED SUCCESFULLY. 
+
